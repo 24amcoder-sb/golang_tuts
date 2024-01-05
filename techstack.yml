@@ -1,7 +1,8 @@
 repo_name: 24amcoder-sb/golang_tuts
-report_id: 44e31b48b52f7a37654f541211932b97
+report_id: 1c12a2635618c32daab60a03c610aa8e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T04:20:34+00:00'
+timestamp: '2024-01-05T08:39:41+00:00'
 requested_by: Lokesh-Swamy
 provider: github
 branch: master
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/golang_tuts
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,4 +28,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/24amcoder-sb/golang_tuts
   detection_source: Repo Metadata
